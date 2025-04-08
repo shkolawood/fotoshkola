@@ -1,0 +1,80 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<yml_catalog date="2025-04-08 14:24">
+<shop>
+<name>Фотошкола Shkolawood</name>
+<company>Фотошкола Shkolawood</company>
+<url>https://shkolawood.ru</url>
+<email>info@shkolawood.ru</email>
+<picture>https://optim.tildacdn.com/tild3435-3630-4261-b363-363834376333/-/resize/382x/-/format/webp/__Wood______777111.png</picture>
+<description>Учись фотографировать в Лофт фотостудии у профессионалов в Москве</description>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<sets>
+<set id="set_1">
+<name>Фотокурс Основы фотографии в Москве</name>
+<url>https://shkolawood.ru/osnovy-fotografii-budni</url>
+</set>
+<set id="set_2">
+<name>Фотокурс Студийный свет для фотографов</name>
+<url>https://shkolawood.ru/studiyn-svet</url>
+</set>
+</sets>
+<offers>
+<offer id="offer17323">
+<set-ids>set_1</set-ids>
+<name>Фотокурс Основы фотографии в Москве</name>
+<url>https://shkolawood.ru/osnovy-fotografii-budni</url>
+<categoryId>605</categoryId>
+<param name="Дополнительная категория">807</param>
+<param name="Продолжительность" unit="месяц">1</param>
+<price>34000</price>
+<currencyId>RUB</currencyId>
+<param name="Формат обучения">С преподавателем</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">true</param>
+<param name="Есть вебинары">true</param>
+<param name="Есть домашние работы">true</param>
+<param name="Есть тренажеры">true</param>
+<param name="Есть сообщество">true</param>
+<param name="Есть бесплатная часть">true</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Курс</param>
+<param name="Результат обучения">Сертификат</param>
+<param name="Часы в неделю">6</param>
+<param name="План" order="1" unit="Теоретический модуль" hours="3">Основные знания по экспозиции, устройству фотоаппарата и выбора объективов для фотосъемки.</param>
+<param name="План" order="2" unit="Практический модуль" hours="15">Фотосъемки - практика с профессиональной фотомоделью. Умение пользоваться студийным оборудованием. Работа со светом и настройками фотокамеры.</param>
+<param name="План" order="3" unit="Самостоятельные работы" hours="9">В подгруппах самостоятельная организация и проведение своих фотосъемок в студии под руководством преподавателя.</param>
+<param name="План" order="4" unit="Выпускное занятие" hours="3">Экзамен и фотовыставка работ студентов с вручением сертификатов.</param>
+<description>Обучение построено на практике - фотосъемки с профессиональными моделями в фотостудии. Фотокурс основы фотографии - подходит для начинающих и с нуля фотографов. На занятиях разбираются настройки и управление фотоаппаратом, студийным оборудованием.</description>
+</offer>
+<offer id="offer17324">
+<set-ids>set_2</set-ids>
+<name>Фотокурс Студийный свет для фотографов</name>
+<url>https://shkolawood.ru/studiyn-svet</url>
+<categoryId>605</categoryId>
+<param name="Дополнительная категория">807</param>
+<param name="Продолжительность" unit="месяц">1</param>
+<price>37000</price>
+<currencyId>RUB</currencyId>
+<param name="Формат обучения">С преподавателем</param>
+<param name="Есть видеоуроки">true</param>
+<param name="Есть текстовые уроки">true</param>
+<param name="Есть вебинары">true</param>
+<param name="Есть домашние работы">true</param>
+<param name="Есть тренажеры">true</param>
+<param name="Есть сообщество">true</param>
+<param name="Есть бесплатная часть">true</param>
+<param name="Сложность">Для новичков</param>
+<param name="Тип обучения">Курс</param>
+<param name="Результат обучения">Сертификат</param>
+<param name="Часы в неделю">6</param>
+<param name="План" order="1" unit="Теоретический модуль" hours="3">Основная теория света. Выбор студийного оборудования для фотографа.</param>
+<param name="План" order="2" unit="Практический модуль" hours="12">Фотосъемки - практика с профессиональной фотомоделью. Умение пользоваться студийным оборудованием. Работа со светом и настройками фотокамеры.</param>
+<param name="План" order="3" unit="Самостоятельные работы" hours="12">В подгруппах самостоятельная организация и проведение своих фотосъемок в студии под руководством преподавателя.</param>
+<param name="План" order="4" unit="Выпускное занятие" hours="3">Экзамен и фотовыставка работ студентов с вручением сертификатов.</param>
+<description>Обучение подходит для фотографов, которые хотят полностью и на высоком уровне разобраться со студийным светом и оборудованием. На занятиях показываются световые схемы на моделях. Студенты на практике в фотостудии получают знания работы со светом.</description>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
