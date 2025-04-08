@@ -27,7 +27,7 @@
 <categoryId>605</categoryId>
 <param name="Дополнительная категория">807</param>
 <param name="Продолжительность" unit="месяц">1</param>
-<price>34000</price>
+<price>36900</price>
 <currencyId>RUB</currencyId>
 <param name="Формат обучения">С преподавателем</param>
 <param name="Есть видеоуроки">true</param>
@@ -54,7 +54,7 @@
 <categoryId>605</categoryId>
 <param name="Дополнительная категория">807</param>
 <param name="Продолжительность" unit="месяц">1</param>
-<price>37000</price>
+<price>40900</price>
 <currencyId>RUB</currencyId>
 <param name="Формат обучения">С преподавателем</param>
 <param name="Есть видеоуроки">true</param>
