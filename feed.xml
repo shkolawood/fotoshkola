@@ -1,78 +1,71 @@
-<yml_catalog date="2025-04-08 14:24">
+<yml_catalog date="2025-04-18 16:45">
 <shop>
-<name>Фотошкола Shkolawood</name>
+<name>Shkolawood.ru</name>
 <company>Фотошкола Shkolawood</company>
-<url>https://shkolawood.ru</url>
-<email>info@shkolawood.ru</email>
+<url>https://shkolawood-online.ru/</url>
+<email>Info@shkolawood.ru</email>
 <picture>https://optim.tildacdn.com/tild3435-3630-4261-b363-363834376333/-/resize/382x/-/format/webp/__Wood______777111.png</picture>
-<description>Учись фотографировать в Лофт фотостудии у профессионалов в Москве</description>
+<description>Фотокурсы в фотошколе </description>
 <currencies>
 <currency id="RUR" rate="1"/>
 </currencies>
 <sets>
 <set id="set_1">
-<name>Фотокурс Основы фотографии в Москве</name>
-<url>https://shkolawood.ru/osnovy-fotografii-budni</url>
+<name>Онлайн фотокурс по обработке фотографий для фотографа</name>
+<url>https://shkolawood-online.ru/onlajn-kurs-obrabotka-foto-retush</url>
 </set>
 <set id="set_2">
-<name>Фотокурс Студийный свет для фотографов</name>
-<url>https://shkolawood.ru/studiyn-svet</url>
+<name>Онлайн фотокурс Основы фото для начинающего фотографа</name>
+<url>https://shkolawood-online.ru/onlajn-kurs-osnovy-fotografii</url>
 </set>
 </sets>
 <offers>
-<offer id="offer17323">
+<offer id="offer33977">
 <set-ids>set_1</set-ids>
-<name>Фотокурс Основы фотографии в Москве</name>
-<url>https://shkolawood.ru/osnovy-fotografii-budni</url>
+<name>Онлайн фотокурс по обработке фотографий для фотографа</name>
+<url>https://shkolawood-online.ru/onlajn-kurs-obrabotka-foto-retush</url>
 <categoryId>605</categoryId>
 <param name="Дополнительная категория">807</param>
-<param name="Продолжительность" unit="месяц">1</param>
-<price>36900</price>
+<description>Полный фотокурс по обработке и цветокоррекции фотографий </description>
+<param name="Продолжительность" unit="месяц">6</param>
+<price>14900</price>
 <currencyId>RUB</currencyId>
-<param name="Формат обучения">С преподавателем</param>
+<param name="Цена по скидке">12900</param>
+<param name="Ссылка на контент курса">https://shkolawood-online.ru/onlajn-kurs-obrabotka-foto-retush</param>
 <param name="Есть видеоуроки">true</param>
 <param name="Есть текстовые уроки">true</param>
-<param name="Есть вебинары">true</param>
 <param name="Есть домашние работы">true</param>
-<param name="Есть тренажеры">true</param>
 <param name="Есть сообщество">true</param>
 <param name="Есть бесплатная часть">true</param>
 <param name="Сложность">Для новичков</param>
 <param name="Тип обучения">Курс</param>
 <param name="Результат обучения">Сертификат</param>
-<param name="Часы в неделю">6</param>
-<param name="План" order="1" unit="Теоретический модуль" hours="3">Основные знания по экспозиции, устройству фотоаппарата и выбора объективов для фотосъемки.</param>
-<param name="План" order="2" unit="Практический модуль" hours="15">Фотосъемки - практика с профессиональной фотомоделью. Умение пользоваться студийным оборудованием. Работа со светом и настройками фотокамеры.</param>
-<param name="План" order="3" unit="Самостоятельные работы" hours="9">В подгруппах самостоятельная организация и проведение своих фотосъемок в студии под руководством преподавателя.</param>
-<param name="План" order="4" unit="Выпускное занятие" hours="3">Экзамен и фотовыставка работ студентов с вручением сертификатов.</param>
-<description>Обучение построено на практике - фотосъемки с профессиональными моделями в фотостудии. Фотокурс основы фотографии - подходит для начинающих и с нуля фотографов. На занятиях разбираются настройки и управление фотоаппаратом, студийным оборудованием.</description>
+<param name="План" order="1" unit="Модуль 1 - Плавный старт" hours="3">1. Понятие, виды и способы ретуши и зачем она нужна? 2. Техника для ретуши подойдет ли мой компьютер и что стоит приобрести 3. Создание каталогов и хранение файлов на компьютере. </param>
+<param name="План" order="2" unit="Модуль 2 - Ретушь фотографий" hours="3">1. Проявка Raw файла. Как из серой фотографии сделать сочный кадр? Важные моменты при проявке и на что стоит обратить внимание. Camera raw/Lightroom 2. Настройка рабочего пространства в Photoshop, убираем все лишнее, оставляем только нужные инструменты 3. Пластика тела, какими инструментами пользоваться, что нужно поправлять и как не перестараться. </param>
+<param name="План" order="3" unit="Модуль 3 - Внимание к деталям" hours="3">1. Чистка фотографии от паразитных цветов, добиваемся чистого цвета 2. Что такое кривая, учимся понимать как работает этот инструмент 3. Инстаграм обрезает голову или ноги? Не беда, расскажем как с этим справиться и заодно удлиним еще больше ноги) </param>
 </offer>
-<offer id="offer17324">
+<offer id="offer34111">
 <set-ids>set_2</set-ids>
-<name>Фотокурс Студийный свет для фотографов</name>
-<url>https://shkolawood.ru/studiyn-svet</url>
+<name>Онлайн курс Основы фотографии </name>
+<url>https://shkolawood-online.ru/onlajn-kurs-osnovy-fotografii</url>
 <categoryId>605</categoryId>
-<param name="Дополнительная категория">807</param>
-<param name="Продолжительность" unit="месяц">1</param>
-<price>40900</price>
+<description>Курс по фотосъемке для начинающих фотографов</description>
+<param name="Продолжительность" unit="месяц">6</param>
+<price>16000</price>
 <currencyId>RUB</currencyId>
-<param name="Формат обучения">С преподавателем</param>
+<param name="Цена по скидке">13000</param>
+<param name="Ссылка на контент курса">https://shkolawood-online.ru/onlajn-kurs-osnovy-fotografii</param>
 <param name="Есть видеоуроки">true</param>
 <param name="Есть текстовые уроки">true</param>
 <param name="Есть вебинары">true</param>
 <param name="Есть домашние работы">true</param>
-<param name="Есть тренажеры">true</param>
 <param name="Есть сообщество">true</param>
 <param name="Есть бесплатная часть">true</param>
 <param name="Сложность">Для новичков</param>
 <param name="Тип обучения">Курс</param>
-<param name="Результат обучения">Сертификат</param>
-<param name="Часы в неделю">6</param>
-<param name="План" order="1" unit="Теоретический модуль" hours="3">Основная теория света. Выбор студийного оборудования для фотографа.</param>
-<param name="План" order="2" unit="Практический модуль" hours="12">Фотосъемки - практика с профессиональной фотомоделью. Умение пользоваться студийным оборудованием. Работа со светом и настройками фотокамеры.</param>
-<param name="План" order="3" unit="Самостоятельные работы" hours="12">В подгруппах самостоятельная организация и проведение своих фотосъемок в студии под руководством преподавателя.</param>
-<param name="План" order="4" unit="Выпускное занятие" hours="3">Экзамен и фотовыставка работ студентов с вручением сертификатов.</param>
-<description>Обучение подходит для фотографов, которые хотят полностью и на высоком уровне разобраться со студийным светом и оборудованием. На занятиях показываются световые схемы на моделях. Студенты на практике в фотостудии получают знания работы со светом.</description>
+<param name="План" order="1" unit="Модуль 1 - Плавный старт" hours="3">лекция по Основам фотографии подготовка и организация фотосъемки, обзор насадок и студийного оборудования</param>
+<param name="План" order="2" unit="Модуль 2 - Фотосъемка и практика - виды света и настройка фотоаппарата" hours="3">естественный свет - практика, стрит фотосъемка, съемка на солнце</param>
+<param name="План" order="3" unit="Модуль 3 - Фотосъемка с импульсным светом" hours="3">настройка и управление моноблоком (студийной вспышкой), мягкий импульсный свет - работа со вспышками, жесткий импульсный свет</param>
 </offer>
 </offers>
 </shop>
